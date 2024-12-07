@@ -53,8 +53,8 @@ const data = {
       isActive: true,
       items: [
         {
-          title: "History",
-          url: "#",
+          title: "Brands",
+          url: "/brands",
         },
         {
           title: "Starred",
